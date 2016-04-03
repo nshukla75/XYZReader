@@ -1,6 +1,7 @@
 <resources>
 
     <string name="app_name">XYZ Reader</string>
+    <string name ="subtitle">%1$s by %2$s</string>
     <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
 
     <string name="action_refresh">Refresh</string>

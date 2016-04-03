@@ -2,88 +2,95 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\classes-e4559ad095721ddb4e5d164cc7673f61c4d90389.jar" />
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_47f479a88a49ca51385861be86e3d9c43dfe7f0c.jar" />
     </item>
     <item
-        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\classes.jar"
+        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\classes-fc675391b099dec7a00ee48ffa7d6f5b006b74d0.jar" />
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_fa4aa83897c2ce66205ead372dcc99540f8c8af2.jar" />
     </item>
     <item
-        jar="C:\Users\nitus\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jar="C:\Users\nitus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="7052283359001bb108753cb0583a887d3bf94c82">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2-9b6577677587784bbe20e1b50df99b93395917ae.jar" />
-    </item>
-    <item
-        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\classes-1932783047df60e18a422567c1dd21b73ab4ac02.jar" />
-    </item>
-    <item
-        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\libs\volley.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\volley-9fe04cdcc5e0c2395e44c1841a2a5b6f47b7bc06.jar" />
-    </item>
-    <item
-        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\classes-fcf28a8e76f4671fc6fac8d8823fc2f69a978f3c.jar" />
-    </item>
-    <item
-        jar="C:\Users\nitus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-16dc9046d0af8ce8893748296e34ebfea35e72a4.jar" />
-    </item>
-    <item
-        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-e869a7cdd3ec584d2653aa01f115319d75606d55.jar" />
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_1e0fcf449e3070d93891b3e7e0c57965d8c46b55.jar" />
     </item>
     <item
         jar="C:\Users\nitus\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
         jumboMode="false"
-        revision="22.0.1"
+        revision="23.0.2"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0-9d8e38a1e877eca8f2836d41a0e2765edd349642.jar" />
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_9d8e38a1e877eca8f2836d41a0e2765edd349642.jar" />
     </item>
     <item
-        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\libs\internal_impl-22.0.0.jar"
+        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-d4f5a1ca7e9b929cb02f9db19a60f713798cdab0.jar" />
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.1.1_95952d2e3f288049c8ac8b148d332aa16ee0227b.jar" />
     </item>
     <item
-        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\classes-f78f9a0b4ab636078808410adec34a2a4ab96a95.jar" />
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_a365b771bddf4f6a8ee664ab83db62b94eb218f1.jar" />
     </item>
     <item
-        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\classes.jar"
+        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\libs\internal_impl-23.1.1.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\classes-603741ecb7ba4c3ac38393bee2138d7e0eca80c6.jar" />
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_6be598de84ad6c7464447efc53a5bf3922755210.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_1f237781c432e995cc1c92e0808e6ca4eace8c1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_6b37ad6010d90145de4ca15f6bdabb5a17006d10.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\volley_9fe04cdcc5e0c2395e44c1841a2a5b6f47b7bc06.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_bdef6f457e4f0879ddc45a3b14a8299ad3a377c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-23.1.1_675f2b74b579ff320a06845bbf1a228217294cd0.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitus\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.0\1477ec5caf8319ab4b51eb43553cd66aa86fdea5\okhttp-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\XYZReader\build\intermediates\pre-dexed\debug\okhttp-2.7.0_9fb25f7ef5febe9104482e32067e0fe2617c00d8.jar" />
     </item>
 
 </items>
