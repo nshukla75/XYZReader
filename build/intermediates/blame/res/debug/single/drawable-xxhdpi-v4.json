@@ -8,10 +8,6 @@
         "source": "C:\\Users\\nitus\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Users\\nitus\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_arrow_back.png",
-        "source": "C:\\Users\\nitus\\AndroidStudioProjects\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back.png"
-    },
-    {
         "merged": "C:\\Users\\nitus\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
         "source": "C:\\Users\\nitus\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
     },
